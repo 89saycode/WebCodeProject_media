@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    🌍 自媒体: <a href="https://discord.gg/Tdedn9GTXq" target="_blank">小红书</a> | <a href="https://cdn.vansin.top/internlm/mineru.jpg" target="_blank">抖音</a>
+    🌍 自媒体: <a href="[https://discord.gg/Tdedn9GTXq](https://www.xiaohongshu.com/user/profile/5faa57d7000000000100464e)" target="_blank">小红书</a> | <a href="https://cdn.vansin.top/internlm/mineru.jpg" target="_blank">抖音</a>
 </p>
 
 </div>
@@ -23,6 +23,6 @@
   <summary><h2 style="display: inline-block">文档目录</h2></summary>
   <ol>
     <li>
-      <a href="#001">001-图片动态切换效果</a>
+      <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/001">001-图片动态切换效果</a>
   </ol>
 </details>
