@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    🌍 自媒体: <a href="[https://discord.gg/Tdedn9GTXq](https://www.xiaohongshu.com/user/profile/5faa57d7000000000100464e)" target="_blank">小红书</a> | <a href="https://cdn.vansin.top/internlm/mineru.jpg" target="_blank">抖音</a>
+    🌍 自媒体: <a href="https://www.xiaohongshu.com/user/profile/5faa57d7000000000100464e" target="_blank">小红书</a> | <a href="https://douyin.com/user/MS4wLjABAAAA1iJo7RUODu2vJC6ZKMpNLPsoqVORPAOCkpd8C1oJOXM?from_tab_name=main" target="_blank">抖音</a>
 </p>
 
 </div>
