@@ -10,7 +10,7 @@
 [简体中文](README.md) | [English](README_en.md)
 
 <p align="center">
-<a href="https://github.com/opendatalab/PDF-Extract-Kit">WebCodeProject_Media: 自媒体的前端代码汇总</a>🔥🔥🔥
+<a href="https://github.com/89saycode/WebCodeProject_media">WebCodeProject_Media: 自媒体的前端代码汇总</a>🔥🔥🔥
 </p>
 
 <p align="center">
