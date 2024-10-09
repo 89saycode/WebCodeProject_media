@@ -22,7 +22,9 @@
 <details open="open">
   <summary><h2 style="display: inline-block">文档目录</h2></summary>
   <ol>
-    <li>
       <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/001">001-图片动态切换效果</a>
+  </ol>
+   <ol>
+      <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/3d菜单">002-3D 菜单文字效果</a>
   </ol>
 </details>
