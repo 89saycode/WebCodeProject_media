@@ -25,6 +25,6 @@
       <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/001">001-图片动态切换效果</a>
   </ol>
    <ol>
-      <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/3d菜单效果">002-3D 菜单文字效果</a>
+      <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/3d菜单代码">002-3D 菜单效果</a>
   </ol>
 </details>
