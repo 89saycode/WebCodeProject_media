@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1c1c2b;
+}
+
+.nav-container {
+    position: relative;
+    background-color: #fff;
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+}
+
+.nav-item {
+    list-style: none;
+    text-align: center;
+    flex: 1;
+}
+
+.nav-item a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #333;
+}
+
+.nav-item a:hover ion-icon {
+    color: #209cff;
+}
+
+.active ion-icon {
+    color: #209cff;
+}
+
+.slider {
+    position: absolute;
+    left: 0px;
+    bottom: 0;
+    height: 5px;
+    width: 20%;
+    background-color: #209cff;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}

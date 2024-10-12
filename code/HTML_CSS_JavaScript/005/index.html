@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>有趣导航菜单</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js" type="module"></script>
+</head>
+
+<body>
+    <div class="nav-container">
+        <ul class="nav-list">
+            <li class="nav-item" id="home">
+                <a href="#" onclick="setActive('home')">
+                    <ion-icon name="home-outline"></ion-icon>
+                </a>
+            </li>
+            <li class="nav-item" id="profile">
+                <a href="#" onclick="setActive('profile')">
+                    <ion-icon name="person-outline"></ion-icon>
+                </a>
+            </li>
+            <li class="nav-item" id="chat">
+                <a href="#" onclick="setActive('chat')">
+                    <ion-icon name="chatbubble-outline"></ion-icon>
+                </a>
+            </li>
+            <li class="nav-item" id="camera">
+                <a href="#" onclick="setActive('camera')">
+                    <ion-icon name="camera-outline"></ion-icon>
+                </a>
+            </li>
+            <li class="nav-item" id="settings">
+                <a href="#" onclick="setActive('settings')">
+                    <ion-icon name="settings-outline"></ion-icon>
+                </a>
+            </li>
+        </ul>
+        <div class="slider"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
