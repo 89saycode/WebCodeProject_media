@@ -36,4 +36,7 @@
   <ol>
       <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/005">005-有趣导航栏</a>
   </ol>
+  <ol>
+      <a href="https://github.com/89saycode/WebCodeProject_media/tree/main/code/HTML_CSS_JavaScript/006">006-登录+注册可以切换</a>
+  </ol>
 </details>
