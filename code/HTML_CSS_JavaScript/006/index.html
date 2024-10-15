@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录页面</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="form-container">
+        <div class="form-header">
+            <h2>欢迎回来</h2>
+        </div>
+        <div class="btns">
+            <button id="loginBtn" class="active">登录</button>
+            <button id="signupBtn">注册</button>
+        </div>
+        <form id="loginForm" class="form-content">
+            <input type="text" placeholder="用户名" required>
+            <input type="password" placeholder="密码" required>
+            <a href="#" class="forgot">忘记密码？</a>
+            <button type="submit" class="submit-btn">登录</button>
+            <p>还没有账号？<a href="#" id="switchToSignup">立即注册</a></p>
+        </form>
+
+        <form id="signupForm" class="form-content hidden">
+            <input type="text" placeholder="用户名" required>
+            <input type="email" placeholder="邮箱" required>
+            <input type="password" placeholder="密码" required>
+            <button type="submit" class="submit-btn">注册</button>
+            <p>已有账号？<a href="#" id="switchToLogin">立即登录</a></p>
+        </form>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
